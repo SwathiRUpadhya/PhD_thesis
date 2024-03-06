@@ -4,7 +4,6 @@ This repository contains all the necessary information used to reproduce analysi
 
 Folder / File                          | Description         |
 :---------------------------------------------|:----------------------|
-
 other_data    | contains input data used in the analysis that is not directly available online  |      
 supplemental_tables   | contains all supplemental tables per thesis chapter    |     
 download_external_data.ipynb    |  jupyter notebook to download the required input files in the expected folder structure for the analysis carried out in Chapters 2-4   | 
