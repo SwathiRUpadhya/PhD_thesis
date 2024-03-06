@@ -12,12 +12,12 @@ download_external_data.ipynb    |  jupyter notebook to download the required inp
          
 *Chapter 2*     
                 
-Published paper: https://doi.org/10.1016/j.crmeth.2022.100288
+Published paper: https://doi.org/10.1016/j.crmeth.2022.100288               
 Code Repo: https://github.com/cancergenetics/limitations_of_omics_reproducibility
 
                   
 *Chapter 3*                  
-Published paper: https://doi.org/10.26508/lsa.202201885
+Published paper: https://doi.org/10.26508/lsa.202201885                
 Code Repo: https://github.com/cancergenetics/antibody_quality_limitations
 
                    
